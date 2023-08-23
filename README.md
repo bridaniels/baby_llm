@@ -19,3 +19,27 @@ Using `langchain` and OpenAI
 - deep learning models, typically general purpose
 - typically trained on simple tasks (next word prediction)
 - culmination of training on vast sets of data increases the parameter count and enables fine-tuning of skills. 
+
+---
+## **Machine Learning Architecture**
+- why don't these individual formats work for LLMs
+### Artificial Neural Network (ANN)
+- vanishing gradient problem
+- gradient-based learning methods with backpropagation 
+### Recurrent Neural Network (RNN)
+- 
+### Long-Short Term Memory (LSTM)
+- 
+### Gated Recurrent Units (GRU)
+- 
+### Self-Supervised Learning 
+- 
+### N-Gram
+- 
+
+---
+
+
+---
+# References: 
+- [LLM explanation](https://www.baeldung.com/cs/large-language-models)
